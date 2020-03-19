@@ -1297,6 +1297,27 @@ section.lazy-placeholder:after {
     padding-top: 1rem;
   }
 }
+.cid-rTGpvIBZsH {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rTGpvIBZsH .title {
+  margin-bottom: 2rem;
+}
+.cid-rTGpvIBZsH .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rTGpvIBZsH a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rTGpvIBZsH a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rTGpvIBZsH textarea.form-control {
+  min-height: 188px;
+}
 .cid-rTGfkesakM {
   padding-top: 90px;
   padding-bottom: 90px;
